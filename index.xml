@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sam Kim</title>
-    <link>https://skim-stanford.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Sam Kim</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://skim-stanford.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://skim-stanford.github.io/post/about/</link>
+      <link>http://localhost:1313/post/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://skim-stanford.github.io/post/about/</guid>
+      <guid>http://localhost:1313/post/about/</guid>
       <description>I am a PhD student in the Applied Cryptography Group at Stanford University. My advisor is Dan Boneh. I got my bachelor&amp;rsquo;s in Computer Science and Mathematics from Georgia Tech. My area of research is Cryptography and Computer Security.
 I spent the summer of 2017 at the ENS Crypto Group working with Hoeteck Wee. I spent the summer of 2016 at the Fujitsu Laboratories of America working with Arnab Roy and Hart Montgomery.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://skim-stanford.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://skim-stanford.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
@@ -36,19 +36,19 @@ Setup Some fun facts about Hugo:
     
     <item>
       <title>Contact</title>
-      <link>https://skim-stanford.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://skim-stanford.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description> First Name  Last Name  E-Mail  City  State AL CA IL      Send   </description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://skim-stanford.github.io/pubs/</link>
+      <link>http://localhost:1313/pubs/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://skim-stanford.github.io/pubs/</guid>
+      <guid>http://localhost:1313/pubs/</guid>
       <description>Function-Hiding Inner Product Encryption is Practical
 Sam Kim, Kevin Lewi, Avradip Mandal, Hart Montgomery, Arnab Roy, David J. Wu In International Conference on Security and Cryptography for Networks, SCN 2018
  Multi-Theorem Preprocessing NIZK from LWE
@@ -59,10 +59,10 @@ Dan Boneh, Rosario Gennaro, Steven Goldfeder, Aayush Jain, Sam Kim, Peter Rasmus
     
     <item>
       <title>Talks</title>
-      <link>https://skim-stanford.github.io/talks/</link>
+      <link>http://localhost:1313/talks/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://skim-stanford.github.io/talks/</guid>
+      <guid>http://localhost:1313/talks/</guid>
       <description>Multi-Theorem Preprocessing NIZK from LWE
  LATCA@BiCi: Lattice Crypto and Algorithms Workshop, Bertinoro, Italy - May 2018   Access Control Encryption for General Policies from Standard Assumptions
  ASIACRYPT 2017, Hong Kong, China - December 2017   Threshold Cryptosystems From Threshold Fully Homomorphic Encryption
@@ -71,10 +71,10 @@ Dan Boneh, Rosario Gennaro, Steven Goldfeder, Aayush Jain, Sam Kim, Peter Rasmus
     
     <item>
       <title>Teaching</title>
-      <link>https://skim-stanford.github.io/teaching/</link>
+      <link>http://localhost:1313/teaching/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://skim-stanford.github.io/teaching/</guid>
+      <guid>http://localhost:1313/teaching/</guid>
       <description>In Spring 2018, I had a lot of fun co-teaching CS355: Topics in Cryptography with Henry Corrigan-Gibbs and David Wu. This was Stanford&amp;rsquo;s advanced lecture course on cryptography and our version of the course covered various topics in cryptography including cryptographic protocols, lattice-based cryptography, and recent real-world applications of modern cryptography.
 In Spring 2017, I helped out as a Course Assistant for CS 359C: Classics of Cryptography that was taught by Henry Corrigan-Gibbs and David Wu.</description>
     </item>
